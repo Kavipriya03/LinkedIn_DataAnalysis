@@ -4,7 +4,7 @@ This is a LinkedIn Data Analysis Project, which was completed using Python as th
 To extract the data from the LinkedIn, I have used Selenium and ChromeDrivers to extract the data also know as "Web Scraping". 
 After Web scraping, all the extracted data was convereted into a csv, to be taken further deeper analysis. 
 
-I targeted 3 Business statements and navigated around the csv data using Python tools such as (Pandas, Matplotlib, counter) to find meaningful insights
+I targeted 3 Business statements and navigated around the csv data using Python tools such as ( "Pandas", "Matplotlib", "counter") to find meaningful insights
 
 ## Objective 1 : Find the most sought after Programming languages for Data Analyst role
 ## Objective 2 : Find the basic Qualification, that is Bachelors/ Master or Both?
